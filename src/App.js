@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Esse é meu Primeiro App.
+          Esse é um teste de React App para o Módulo 10 da Especialização AWS Cloud Treinamentos.
         </p>
         <a
           className="App-link"
